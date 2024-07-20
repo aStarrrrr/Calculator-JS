@@ -19,7 +19,7 @@
     height: 73%;
     background: black;
 }
-.screen{
+#screen{
     pointer-events: none;
     pointer-events: none;
     width: 90%;
