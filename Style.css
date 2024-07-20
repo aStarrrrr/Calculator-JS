@@ -6,3 +6,24 @@
     margin-left: 400px;
     margin-top: 77px;
 }
+.display-area{
+    width: 670px;
+    margin-left: 15px;
+    height: 20%;
+    background: rgb(62, 59, 72);
+}
+.input-area{
+    margin-top: 21px;
+    margin-left: 15px;
+    width: 670px;
+    height: 73%;
+    background-color: rgb(106, 101, 101);
+}
+.screen{
+    pointer-events: none;
+    pointer-events: none;
+    width: 96%;
+    height: 70%;
+    margin-left: 10px;
+    margin-top: 12px;
+}
